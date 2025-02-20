@@ -21,7 +21,7 @@ gxofe. - Mgon Rdepdrw.
 xpb) 
 ```
 
-### 🎯 Objetivo
+## 🎯 Objetivo
 Ordenar las letras del mensaje encriptado según su frecuencia de aparición (de mayor a menor) y compararlas con la tabla de frecuencias del idioma en el que está escrito el mensaje. Con esta información, deberás desencriptar el texto.
 
 ## 📊 Frecuencia de Letras
@@ -31,7 +31,7 @@ El idioma en el que está escrito el mensaje tiene la siguiente distribución de
 freqLang = "TEOAISRHNUCMDLGWFPYKJBVQX"
 ```
 
-### ⚙️ Funciones
+## ⚙️ Funciones
 Debes implementar la siguiente función para desencriptar el mensaje:
 
 ```cpp
