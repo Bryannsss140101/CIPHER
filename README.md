@@ -26,18 +26,21 @@ Ordenar las letras del mensaje encriptado según su frecuencia de aparición (de
 
 ## 📊 Frecuencia de Letras
 El idioma en el que está escrito el mensaje tiene la siguiente distribución de frecuencias de letras:
+
 ```cpp
 freqLang = "TEOAISRHNUCMDLGWFPYKJBVQX"
 ```
 
 ### ⚙️ Funciones
 Debes implementar la siguiente función para desencriptar el mensaje:
+
 ```cpp
 decryptMessage(message, freqLang)
 ```
 
 ## 🖥️ Implementación
 Para ejecutar este proyecto en tu máquina local, clona el repositorio y ejecuta el archivo `main.cpp` desde CLion.
+
 ```bash
 git clone https://github.com/Bryannsss140101/CIPHER.git
 cd CIPHER
