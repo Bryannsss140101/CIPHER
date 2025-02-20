@@ -1,6 +1,6 @@
 # CIPHER 🕵️‍♂️🔓  
 
-## 📜 Descripción
+### 📜 Descripción
 El mensaje proporcionado ha sido cifrado, donde cada letra **(a-z)** del mensaje original ha sido reemplazada por otra. El reto consiste en recuperar el mensaje original basándose en la frecuencia de las letras.
 
 ```
@@ -21,24 +21,24 @@ gxofe. - Mgon Rdepdrw.
 xpb) 
 ```
 
-## 🎯 Objetivo
+### 🎯 Objetivo
 Ordenar las letras del mensaje encriptado según su frecuencia de aparición (de mayor a menor) y compararlas con la tabla de frecuencias del idioma en el que está escrito el mensaje. Con esta información, deberás desencriptar el texto.
 
-## 📊 Frecuencia de Letras
+### 📊 Frecuencia de Letras
 El idioma en el que está escrito el mensaje tiene la siguiente distribución de frecuencias de letras:
 
 ```cpp
 freqLang = "TEOAISRHNUCMDLGWFPYKJBVQX"
 ```
 
-## ⚙️ Funciones
+### ⚙️ Funciones
 Debes implementar la siguiente función para desencriptar el mensaje:
 
 ```cpp
 decryptMessage(message, freqLang)
 ```
 
-## 🖥️ Implementación
+### 🖥️ Implementación
 Para ejecutar este proyecto en tu máquina local, clona el repositorio y ejecuta el archivo `main.cpp` desde CLion.
 
 ```bash
@@ -46,7 +46,7 @@ git clone https://github.com/Bryannsss140101/CIPHER.git
 cd CIPHER
 ```
 
-## 🤝 Contribuciones
+### 🤝 Contribuciones
 ¡Las contribuciones son bienvenidas! Si encuentras algún error o tienes sugerencias de mejora, no dudes en abrir un issue o hacer un pull request. Sigue estos pasos para contribuir:
 
 1. Forkea el repositorio.
