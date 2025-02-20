@@ -10,8 +10,6 @@
 
 using namespace std;
 
-// cifrado monoalfabético por sustitución
-
 string frequency(const string &message) {
     unordered_map<char, int> map;
 
