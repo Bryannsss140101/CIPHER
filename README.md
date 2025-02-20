@@ -2,10 +2,10 @@
 El proyecto en C++ desencripta un mensaje cifrado utilizando un análisis de frecuencia de letras. Calcula la frecuencia de aparición de las letras en el mensaje, las compara con una tabla de frecuencias predefinida y realiza una sustitución para recuperar el mensaje original.
 
 ## Tabla de Contenidos
-1. [Descripción](#📜-descripción)
+1. [Descripción](#📜-descripcion)
 2. [Objetivo](#🎯-objetivo)
 3. [Funciones](#⚙️-funciones)
-4. [Implementación](#🖥️-implementación)
+4. [Implementación](#🖥️-implementacion)
 5. [Contribuciones](#🤝-contribuciones)
 
 ### 📜 Descripción
