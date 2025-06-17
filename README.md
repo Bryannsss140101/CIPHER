@@ -1,6 +1,6 @@
 ![status](https://img.shields.io/badge/status-finished-brightgreen)
 ![Version](https://img.shields.io/badge/version-v1.0.0-blue)
-[![License](https://img.shields.io/badge/licencia-MIT-green)](https://github.com/Bryannsss140101/BinarySearchTree/blob/main/lic/LICENSE.txt)
+[![License](https://img.shields.io/badge/licencia-MIT-green)](https://github.com/Bryannsss140101/CIPHER/blob/main/lic/LICENSE.txt)
 
 ### 📜 Descripción
 El mensaje proporcionado ha sido cifrado, donde cada letra **(a-z)** del mensaje original ha sido reemplazada por otra. El reto consiste en recuperar el mensaje original basándose en la frecuencia de las letras.
