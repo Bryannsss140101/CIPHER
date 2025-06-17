@@ -1,3 +1,7 @@
+![status](https://img.shields.io/badge/status-finished-brightgreen)
+![Version](https://img.shields.io/badge/version-v1.0.0-blue)
+[![License](https://img.shields.io/badge/licencia-MIT-green)](https://github.com/Bryannsss140101/BinarySearchTree/blob/main/lic/LICENSE.txt)
+
 ### 📜 Descripción
 El mensaje proporcionado ha sido cifrado, donde cada letra **(a-z)** del mensaje original ha sido reemplazada por otra. El reto consiste en recuperar el mensaje original basándose en la frecuencia de las letras.
 ```
@@ -33,7 +37,7 @@ decryptMessage(message, freqLang)
 ```
 
 ### 🖥️ Implementación
-Para ejecutar este proyecto en tu máquina local, clona el repositorio y ejecuta el archivo `main.cpp` desde CLion.
+Para ejecutar este proyecto en tu máquina local, clona el repositorio y ejecuta el archivo `main.cpp`.
 ```bash
 git clone https://github.com/Bryannsss140101/CIPHER.git
 cd CIPHER
@@ -42,8 +46,20 @@ cd CIPHER
 ### 🤝 Contribuciones
 ¡Las contribuciones son bienvenidas! Si encuentras algún error o tienes sugerencias de mejora, no dudes en abrir un issue o hacer un pull request. Sigue estos pasos para contribuir:
 
-1. Forkea el repositorio.
-2. Crea una nueva rama `git checkout -b feature/new-functionality`.
-4. Realiza los cambios necesarios y haz commit de los mismos `git commit -m 'prefix: Type of functionality'`.
-6. Haz push de tu rama `git push origin feature/new-functionality`.
-8. Crea un pull request en GitHub.
+1. **Haz un fork**: Haz clic en "Fork" en GitHub para crear tu propia copia del proyecto.
+2. **Crea una nueva rama**:
+   ```bash
+   git checkout -b new-branch.
+   ```
+4. **Realiza los cambios necesarios**: Edita los archivos que necesites.
+5. **Haz commit de tus cambios**:
+   ```bash
+   git add .
+   git commit -m "My awesome commit"
+   ```
+7. **Sube tus cambios**:
+   ```bash
+   git push origin new-branch
+   ```
+9. **Crea un pull**: Dirigete a GitHub y crea un `pull request` para agregar tus cambios.
+
